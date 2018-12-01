@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#peter-kreppein-card {
+ background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/22552772_10213766865383673_6210055928552685237_n.jpg?_nc_cat=108&_nc_ht=scontent-iad3-1.xx&oh=d7b2a357abd9165f6b10c9784e9a808d&oe=5C9F5DD9");
+}
+
+#peter-kreppein-cover {
+ background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/22552772_10213766865383673_6210055928552685237_n.jpg?_nc_cat=108&_nc_ht=scontent-iad3-1.xx&oh=d7b2a357abd9165f6b10c9784e9a808d&oe=5C9F5DD9");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
